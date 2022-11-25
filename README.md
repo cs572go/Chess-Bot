@@ -10,7 +10,7 @@
 * Press `r` to reset the game.
 
 ## Made by
-PE37 Tushar Deshmukh
-PE42 Atharva Dharmik
-PE43 Hrishikesh Utge
-PE44 Ashutosh Mishra
+* PE37 Tushar Deshmukh
+* PE42 Atharva Dharmik
+* PE43 Hrishikesh Utge
+* PE44 Ashutosh Mishra
