@@ -11,6 +11,3 @@
 
 ## Made by
 * PE37 Tushar Deshmukh
-* PE42 Atharva Dharmik
-* PE43 Hrishikesh Utge
-* PE44 Ashutosh Mishra
